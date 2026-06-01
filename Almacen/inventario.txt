@@ -1,0 +1,1 @@
+[{"nombre":"Sabritas","existencia":2},{"nombre":"Coca cola","existencia":7},{"nombre":"Cacahuates","existencia":1}]
